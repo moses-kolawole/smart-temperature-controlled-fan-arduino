@@ -66,7 +66,7 @@ The system reads temperature data from the DHT11 sensor and automatically contro
 ## Project Images
 ![Images for the project]()
 
-[Click Here for other images of the project]()
+[Click Here for other images of the project](images/Smart_Temperature_Controlled_Fan_Using_Arduino_photo3)
 
 
 ## Arduino Libraries Used
@@ -77,10 +77,10 @@ The system reads temperature data from the DHT11 sensor and automatically contro
 
 ## Arduino Code
 
-[Click Here For the Code]()
+[Click Here For the Code](code/Adaptive_Fan_Controller_project_on_13th_May_2026.ino)
 
 ## Project Demostration video
 
-[Click Here to check out the Video]()
+[Click Here to check out the Video](https://youtu.be/018j-yUusR0)
 
 
